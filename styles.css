@@ -388,6 +388,7 @@ a {
 .Drink1 {
   grid-column-start: 3;
   grid-column-end: span 3;
+  width: 90%;
   /* grid-row-end: span 8; */
   /* background-image: url("Drink4.jpg");
   background-repeat: no-repeat;
@@ -457,13 +458,13 @@ a {
 }
 
 .about1 {
-  padding-top: 5vmin;
+  padding-top: 9vmin;
   grid-column-start: 3;
   text-align: right;
 }
 
 .about2 {
-  padding-top: 5vmin;
+  padding-top: 9vmin;
   grid-column-start: 7;
 }
 /* ******************************************** */
